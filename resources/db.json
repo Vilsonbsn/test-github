@@ -1,0 +1,10 @@
+{
+    "db": {
+        "url": "postgres://postgres:postgres@localhost:5432/github",
+        "user": "postgres",
+        "password": "postgres",
+        "host": "localhost",
+        "port": 5432,
+        "database": "github"
+    }
+}

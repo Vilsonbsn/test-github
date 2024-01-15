@@ -1,0 +1,24 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@octokit/core": "^5.0.2",
+    "@octokit/request": "^8.1.6",
+    "inquirer": "9.2.12",
+    "pg-promise": "^11.5.4",
+    "uuid": "9.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.2",
+    "bluebird": "^3.7.2",
+    "pg-query-stream": "4.5.3"
+  }
+}
